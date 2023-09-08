@@ -1,14 +1,17 @@
-**Chuanwise**
-
-春风杨柳万千条，六亿神州尽舜尧。
-
-[![Intellij IDEA](https://img.shields.io/badge/IDE-Intellij%20IDEA-orange?style=flat-square&logo=intellij-idea)](https://www.jetbrains.com/)
-[![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Gradle](https://img.shields.io/badge/Build%20tool-Gradle-06A0CE?logo=Gradle&labelColor=02303A)](https://gradle.org/?from=xiaoming)
-
-This is Chuanwise, a ordinary student in China, majoring in the Computer Technology (postgraduates) and the Software Engineering (undergraduates).
+**Chuanwise: an Ordinary Student in China**
 
 * **Pages**: [Blogs](https://blogs.chuanwise.cn) | [Resume](https://resume.chuanwise.cn)
-* **Email**: work@chuanwise.cn
+
+He is majoring in:
+
+* Computer Technologies (2023 - 2026, Postgraduates, Xidian University, Xi'an Shaanxi)
+* Software Engineering (2019 - 2023, Undergraduates, Northwest University, Xi'an Shaanxi)
+
+He is interested in: 
+
+* AI (Artifical Intelligence): Multi-Modalities, Natural Language Processing, Deep Learning, Neural Networ etc.
+* High-level Programming Languages and theirs virtual machine (if present): Java, Kotlin, Python, Rust, C, C++ etc.
+* OS (Operating System): Linux
+* Rendering: Light Tracing Algoriithms, Siddon Algorithms etc.
+* IM Bot (Instant Messaging Bot): Mirai, Onebot, XiaoMing etc.
+

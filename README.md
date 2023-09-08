@@ -1,4 +1,4 @@
-**Chuanwise: an Ordinary Student in China**
+# Chuanwise: an Ordinary Student in China
 
 [Blogs](https://blogs.chuanwise.cn) | [Resume](https://resume.chuanwise.cn)
 
